@@ -16,5 +16,5 @@ variable "protocol_type" {
   default = "email"
 }
 variable "end_point" {
-  default = "preciousigbokwe1819@gmail.com"
+  default = "sijkcbvnvhd@gmail.com" # please use your email
 }
